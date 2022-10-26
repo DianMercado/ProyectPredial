@@ -3,7 +3,7 @@
 @section('content')
 @csrf
 <div class="container text-center" >
-    <h3>Se Ha Enviado Exitosamente</h3>
+    <h3>Se Ha Enviado Exitosamenteee</h3>
     <a href="/paybills/create" class="btn btn-outline-secundary">Regresar</a>
     </div>
 @endsection
